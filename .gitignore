@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+.env 
+credentials.json
+node_modules/
+dashboard/dist/
 
 # Virtual environments
 .venv
